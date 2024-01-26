@@ -1,0 +1,59 @@
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production build
+/build
+
+# Next.js build output
+/.next
+
+# Compiled output
+/dist
+
+# Logs
+/logs
+*.log
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Nested folders
+**/node_modules
+**/.pnp
+**/.pnp.js
+**/coverage
+**/build
+**/.next
+**/dist
+**/logs
+**/*.log
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+**/.idea
+**/.vscode
+**/*.suo
+**/*.ntvs*
+**/*.njsproj
+**/*.sln
+**/*.sw?
+# END: abpxx6d04wxr
