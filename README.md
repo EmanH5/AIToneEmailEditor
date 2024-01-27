@@ -2,6 +2,8 @@
 
 This is an AI-based email editor that recommends better body text according to a selected tone.
 
+Detailed tutorial is in progress...
+
 ## Getting Started
 
 To run the Node server and React UI app locally, follow these steps:
