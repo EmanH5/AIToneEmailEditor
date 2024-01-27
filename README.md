@@ -63,4 +63,4 @@ To run the Node server and React UI app locally, follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU GPL] License
