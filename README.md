@@ -2,7 +2,7 @@
 
 This is an AI-based email editor that recommends better body text according to a selected tone.
 
-Detailed tutorial is in progress...
+Detailed tutorial is in my twilio blog post https://www.twilio.com/en-us/blog/build-a-tone-email-editor-with-sendgrid--react--and-openai#building-the-app
 
 ## Getting Started
 
